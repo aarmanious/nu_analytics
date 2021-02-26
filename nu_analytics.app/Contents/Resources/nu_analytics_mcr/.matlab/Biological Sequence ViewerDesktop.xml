@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layout>
+   <Version Major="3" Minor="0"/>
+   <Group Alphabetize="no" Dock="no" Guest="no" Name="Biological Sequence Viewer" Show="no" ShowViews="no" Title="Biological Sequence Viewer">
+      <ToolBars>
+         <ToolBar Label="Biological Sequence Viewer" Showing="yes"/>
+      </ToolBars>
+      <Location Context="undocked" EntirelyVisible="yes" External="yes" Height="800" Type="floating" Width="800" X="50" Y="50"/>
+      <Location Context="document" Type="floating"/>
+      <Frame StatusBarShowing="yes" TitlesShowing="yes">
+         <Location EntirelyVisible="yes" External="yes" Height="800" Type="floating" Width="800" X="50" Y="50"/>
+      </Frame>
+      <DocumentArea Arrangement="maximized" Bar="top" Empty="no" MaxBarWidth="240" Showing="yes" ShrinkTabs="no"/>
+   </Group>
+</Layout>
