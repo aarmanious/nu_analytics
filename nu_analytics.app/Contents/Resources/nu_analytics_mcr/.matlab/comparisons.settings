@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings name="comparisons" version="1" xmlns="urn:mathworks.matlab.settings" xsi:schemaLocation="urn:mathworks.matlab.settings settings.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key name="DiffLinkAutoStart">
+        <bool>
+        </bool>
+    </key>
+    <key name="FilterMode">
+        <bool>
+        </bool>
+    </key>
+    <key name="RecentFiles">
+        <string>
+            <value><![CDATA[/Users/antonius/Dropbox/Tony/matlab/02-Scripts_Functions/00-General_Functions/newZero.mlx:/Users/antonius/Dropbox/Tony/matlab/02-Scripts_Functions/00-General_Functions/selectRectangle.mlx]]></value>
+        </string>
+    </key>
+    <settings name="colors" visible="true">
+        <settings name="DefaultProfileID" visible="true">
+            <key name="profileName" visible="true">
+                <string>
+                    <value><![CDATA[Default]]></value>
+                </string>
+            </key>
+            <settings name="current" visible="true">
+                <key name="LeftDifferenceColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>221</value>
+                        <value>255</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+                <key name="MergedColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>192</value>
+                        <value>192</value>
+                        <value>192</value>
+                    </int32>
+                </key>
+                <key name="ModifiedContentColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>255</value>
+                        <value>180</value>
+                        <value>180</value>
+                    </int32>
+                </key>
+                <key name="ModifiedLineColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>255</value>
+                        <value>221</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+                <key name="RightDifferenceColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>221</value>
+                        <value>255</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+            </settings>
+            <settings name="original" visible="true">
+                <key name="LeftDifferenceColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>221</value>
+                        <value>255</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+                <key name="MergedColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>192</value>
+                        <value>192</value>
+                        <value>192</value>
+                    </int32>
+                </key>
+                <key name="ModifiedContentColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>255</value>
+                        <value>180</value>
+                        <value>180</value>
+                    </int32>
+                </key>
+                <key name="ModifiedLineColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>255</value>
+                        <value>221</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+                <key name="RightDifferenceColor" visible="true">
+                    <int32 minArraySize="0" maxArraySize="3">
+                        <value>221</value>
+                        <value>255</value>
+                        <value>221</value>
+                    </int32>
+                </key>
+            </settings>
+        </settings>
+        <settings name="currentProfile" visible="true">
+            <key name="lastChosen" visible="true">
+                <string>
+                    <value><![CDATA[DefaultProfileID]]></value>
+                </string>
+            </key>
+        </settings>
+    </settings>
+    <settings name="folder">
+        <key name="FileNameFilters">
+            <string undef="true">
+            </string>
+        </key>
+        <key name="IncludeSubfolders">
+            <bool>
+            </bool>
+        </key>
+    </settings>
+    <settings name="slx">
+        <key name="CloseSameNameModel">
+            <bool>
+            </bool>
+        </key>
+        <settings name="highlight">
+            <key name="AlwaysHighlight">
+                <bool>
+                </bool>
+            </key>
+            <key name="ReportPosition">
+                <double minArraySize="4" maxArraySize="4">
+                </double>
+            </key>
+            <key name="SimulinkPositionLeft">
+                <double minArraySize="4" maxArraySize="4">
+                </double>
+            </key>
+            <key name="SimulinkPositionRight">
+                <double minArraySize="4" maxArraySize="4">
+                </double>
+            </key>
+            <key name="StateflowPositionLeft">
+                <double minArraySize="4" maxArraySize="4">
+                </double>
+            </key>
+            <key name="StateflowPositionRight">
+                <double minArraySize="4" maxArraySize="4">
+                </double>
+            </key>
+        </settings>
+    </settings>
+    <settings name="text">
+        <key name="ColumnsVisible">
+            <int32>
+            </int32>
+        </key>
+        <key name="IgnoreWhitespace">
+            <bool>
+            </bool>
+        </key>
+        <key name="ShowDifferencesOnly">
+            <bool>
+            </bool>
+        </key>
+    </settings>
+    <settings name="xml">
+        <key name="JVMInitHeapSize">
+            <int32>
+            </int32>
+        </key>
+        <key name="JVMMaxHeapSize">
+            <int32>
+            </int32>
+        </key>
+    </settings>
+</settings>
